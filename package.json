@@ -1,0 +1,16 @@
+{
+  "name": "msal-upgrade-errors-28413",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/msal-node-2.6.1": "npm:@azure/msal-node@2.6.1",
+    "@azure/msal-node-2.6.2": "npm:@azure/msal-node@2.6.2"
+  }
+}
